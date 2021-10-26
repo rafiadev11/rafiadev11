@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-<br/> 
+<br/> <br/> 
  
 I am currently a Full Stack Developer and Front-End Business Systems Administrator with six plus years of hands-on experience planning, developing, and implementing web applications. I hold a master's degree in software development and a graduate certificate in web development.  
   
