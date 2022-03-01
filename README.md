@@ -10,7 +10,7 @@
 
 <br/> <br/> 
  
-I am currently a Full Stack Developer and Front-End Business Systems Administrator with six plus years of hands-on experience planning, developing, and implementing web applications. I hold a master's degree in software development and a graduate certificate in web development.  
+I am currently a Software Engineer with six plus years of hands-on experience planning, developing, and implementing web applications. I hold a master's degree in software development and a graduate certificate in web development.  
   
 
 <br/>  
